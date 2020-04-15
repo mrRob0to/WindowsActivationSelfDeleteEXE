@@ -2,7 +2,7 @@
 Inputs and activates Windows product key by a running .exe derived from a .ps1, then deletes all traces.
 
 .DESCRIPTION<br/>
-Inputs and activates Windows product key by a running .exe derived from a .ps1, then deletes all traces.
+Inputs and activates Windows product key by a running .exe derived from a .ps1, then deletes all traces.<br/>
 NOTE:This Script is dependent on turning this .ps1 into a .exe by PS2EXE-GUI
 
 1) Inputs a Windows Product Key and supresses output.
